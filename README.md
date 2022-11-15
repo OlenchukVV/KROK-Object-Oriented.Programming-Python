@@ -1,2 +1,2 @@
-# KROK-object-oriented.programming-
+# KROK object-oriented.programming (Python)
  object-oriented.programming KROK
